@@ -114,3 +114,7 @@ category_archive:
 tag_archive:
   type: liquid
   path: /tags/
+
+domain: samcarpentier.github.io
+url: https://samcarpentier.github.io
+baseurl: /test-jekyll1/
